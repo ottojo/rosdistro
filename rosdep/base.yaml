@@ -8793,6 +8793,8 @@ wireshark-common:
   fedora: [wireshark-cli]
   nixos: [wireshark-cli]
   ubuntu: [wireshark-common]
+wiringpi:
+  ubuntu: [libwiringpi-dev]
 wkhtmltopdf:
   arch: [wkhtmltopdf]
   debian: [wkhtmltopdf]
